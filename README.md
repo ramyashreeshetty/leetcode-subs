@@ -4,7 +4,7 @@ This repository contains my personal solutions to various **LeetCode** problems.
 
 ## Automated Upload with `glsync` ⚡
 
-I use **`glsync`**, a custom tool, to automatically sync my LeetCode submissions with this GitHub repository. Once I submit a solution on LeetCode, it is pushed directly to the repo without manual intervention.
+I use **`glsync`** -> [here](https://github.com/ahmed-e-abdulaziz/glsync), and it automatically syncs my LeetCode submissions with this GitHub repository. Once I submit a solution on LeetCode, it is pushed directly to the repo without manual intervention.
 
 ## How It's Organized 📁
 
